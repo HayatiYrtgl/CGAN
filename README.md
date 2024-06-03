@@ -1,3 +1,4 @@
+![alt text](https://github.com/HayatiYrtgl/CGAN/blob/main/RESULTS/197_generated.png?raw=true)
 ```markdown
 # TensorFlow Image Processing Pipeline
 
