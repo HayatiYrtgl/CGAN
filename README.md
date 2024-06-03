@@ -1,4 +1,12 @@
+# CGAN RESULTS
 ![alt text](https://github.com/HayatiYrtgl/CGAN/blob/main/RESULTS/197_generated.png?raw=true)
+![alt text](https://github.com/HayatiYrtgl/CGAN/blob/main/RESULTS/198_generated.png?raw=true)
+![alt text](https://github.com/HayatiYrtgl/CGAN/blob/main/RESULTS/199_generated.png?raw=true)
+![alt text](https://github.com/HayatiYrtgl/CGAN/blob/main/RESULTS/200_generated.png?raw=true)
+![alt text](https://github.com/HayatiYrtgl/CGAN/blob/main/RESULTS/608_generated.png?raw=true)
+![alt text](https://github.com/HayatiYrtgl/CGAN/blob/main/RESULTS/609_generated.png?raw=true)
+---
+# CGAN CODES EXPLANATION
 ```markdown
 # TensorFlow Image Processing Pipeline
 
